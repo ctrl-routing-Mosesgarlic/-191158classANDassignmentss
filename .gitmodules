@@ -7,3 +7,6 @@
 [submodule "DSA Python Codes/singly-linked-list"]
 	path = DSA Python Codes/singly-linked-list
 	url = https://github.com/Tums2060/singly-linked-list.git
+[submodule "queues/queue-group-assignments-ics-group-d-2025-legends"]
+	path = queues/queue-group-assignments-ics-group-d-2025-legends
+	url = https://github.com/ctrl-routing-Mosesgarlic/queue-group-assignments-ics-group-d-2025-legends.git
