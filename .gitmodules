@@ -1,3 +1,6 @@
 [submodule "ASSIGNMENT LABS/OOP_ClassPrac_Labs"]
 	path = ASSIGNMENT LABS/OOP_ClassPrac_Labs
 	url = https://github.com/devchiwhale/OOP_ClassPrac_Labs.git
+[submodule "DSA Python Codes/python-practice"]
+	path = DSA Python Codes/python-practice
+	url = https://github.com/Tums2060/python-practice.git
