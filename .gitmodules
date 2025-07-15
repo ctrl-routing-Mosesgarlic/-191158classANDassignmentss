@@ -4,3 +4,6 @@
 [submodule "DSA Python Codes/python-practice"]
 	path = DSA Python Codes/python-practice
 	url = https://github.com/Tums2060/python-practice.git
+[submodule "DSA Python Codes/singly-linked-list"]
+	path = DSA Python Codes/singly-linked-list
+	url = https://github.com/Tums2060/singly-linked-list.git
